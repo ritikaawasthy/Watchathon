@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-size: 140%;
+  background-image: url("https://image.freepik.com/free-photo/light-beige-rose-marble-texture-abstract-background-postcard-invitation-website-3d-rendering_187882-1037.jpg");
+}
+
+button {
+  background-color: black;
+  color: pink;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
